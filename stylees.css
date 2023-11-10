@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+
+.myname {
+    text-align: center;
+     color: blue;
+     text-decoration: underline;
+     text-decoration:color(display-p3 rgb(78, 78, 78) green #d6fa08);
+     
+}
+
+
+    .aboutme {
+        text-transform: capitalize;
+        text-decoration: underline;
+    }
+
+    .text {
+        text-decoration: underline;
+    }
+
+    .relative {
+        position: relative;
+    }
